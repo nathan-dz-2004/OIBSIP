@@ -1,7 +1,7 @@
 # Network Security Threats: A Research Report
 
 **Author:** Nathan Desouza  
-**Internship:** CodeAlpha Cybersecurity Internship (Student ID: CA/DF1/274897)  
+**Internship:** OIBSIP Cybersecurity Internship.
 **Task:** Task 4, Research Report: Common Network Security Threats
 
 ---
